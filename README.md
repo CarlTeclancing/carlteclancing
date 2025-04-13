@@ -18,7 +18,7 @@ I'm a creative problem solver and builder, crafting user-centered digital experi
 
 ### 📫 Let's Connect!
 - 🧠 Twitter: [@yuven_carlson](https://twitter.com/yuvcarl)  
-- 🧑‍💻 Portfolio: [crestlancing.com](https://yuvcarl.crestlancing.com) *(if available)*  
+- 🧑‍💻 Portfolio: [crestlancing.com](https://yuvcarl.crestlancing.com) 
 - ✉️ Email: [your.email@example.com](mailto:codewithcrest@gmail.com)
 
 ---
