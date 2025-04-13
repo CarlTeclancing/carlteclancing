@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi there, I'm Yango Carlson
 
-<!--
-**CarlTeclancing/carlteclancing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate UI/UX Designer | 🛠️ Frontend Developer | 🚀 Startup Enthusiast
 
-Here are some ideas to get you started:
+I'm a creative problem solver and builder, crafting user-centered digital experiences through thoughtful design and clean code. I enjoy working on startup ideas, building products from scratch, and empowering teams through design and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Design**: Figma, Adobe XD, Illustrator  
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend**: Node.js (basic), PHP (basic)  
+- **Tools**: Git, GitHub, GPRM, VS Code
+
+### 🌍 Currently Working On
+- 🧠 Learning React Native + Node.js  
+- 🛵 Chop ASAP – A food delivery platform  
+- 💼 Crestlancing – Building powerful brand & tech solutions  
+- 🧪 Master's in Sciences | Tech-Education crossover projects
+
+### 📫 Let's Connect!
+- 🧠 Twitter: [@yuven_carlson](https://twitter.com/yuvcarl)  
+- 🧑‍💻 Portfolio: [crestlancing.com](https://yuvcarl.crestlancing.com) *(if available)*  
+- ✉️ Email: [your.email@example.com](mailto:codewithcrest@gmail.com)
+
+---
+
+“Great products are not just designed—they’re experienced.”  
