@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Yango Carlson
+### 👋 Hi there, I'm Yuvcarl
 
 🎯 Passionate UI/UX Designer | 🛠️ Frontend Developer | 🚀 Startup Enthusiast
 
@@ -7,12 +7,13 @@ I'm a creative problem solver and builder, crafting user-centered digital experi
 ### 🔧 Technologies & Tools
 - **Design**: Figma, Adobe XD, Illustrator  
 - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend**: Node.js (basic), PHP (basic)  
+- **Backend**: Node.js (basic), PHP Laravel 
 - **Tools**: Git, GitHub, GPRM, VS Code
 
 ### 🌍 Currently Working On
 - 🧠 Learning React Native + Node.js  
-- 🛵 Chop ASAP – A food delivery platform  
+- 🛵 Chop ASAP – A food delivery platform
+- 🏫 Wedjosse - A language learning platfrom
 - 💼 Crestlancing – Building powerful brand & tech solutions  
 - 🧪 Master's in Sciences | Tech-Education crossover projects
 
