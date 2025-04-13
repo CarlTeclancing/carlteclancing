@@ -18,9 +18,9 @@ I'm a creative problem solver and builder, crafting user-centered digital experi
 - 🧪 Master's in Sciences | Tech-Education crossover projects
 
 ### 📫 Let's Connect!
-- 🧠 Twitter: [@yuven_carlson](https://twitter.com/yuvcarl)  
-- 🧑‍💻 Portfolio: [crestlancing.com](https://yuvcarl.crestlancing.com) 
-- ✉️ Email: [your.email@example.com](mailto:codewithcrest@gmail.com)
+- 🧠 Twitter: [@yuvcarl](https://twitter.com/yuvcarl)  
+- 🧑‍💻 Portfolio: [portfolio](https://yuvcarl.crestlancing.com) 
+- ✉️ Email: [Heire Me NOw](mailto:codewithcrest@gmail.com)
 
 ---
 
