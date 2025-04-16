@@ -7,7 +7,8 @@ I'm a creative problem solver and builder, crafting user-centered digital experi
 ### 🔧 Technologies & Tools
 - **Design**: Figma, Adobe XD, Illustrator  
 - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Backend**: Node.js (basic), PHP Laravel 
+- **Backend**: Node.js (basic), PHP Laravel
+-  **Mobile**: React Native
 - **Tools**: Git, GitHub, GPRM, VS Code
 
 ### 🌍 Currently Working On
