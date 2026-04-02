@@ -1,29 +1,24 @@
-Hi, I'm Yuvcarl
+Yuvcarl
 
-UI/UX Designer and Frontend Developer focused on building clean, user-centered digital products. I enjoy turning ideas into real-world solutions, especially in startup environments.
+I design and build products people actually use.
 
-Tech Stack
+UI/UX + Frontend focused on clarity, speed, and real-world impact. I turn ideas into working systems.
 
-Design: Figma, Adobe XD, Illustrator
-Frontend: HTML, CSS, JavaScript, React, Tailwind, TypeScript
-Backend: Node.js, Laravel, Go
-Mobile: React Native
+Stack
+Figma • React • Tailwind • TypeScript • Node.js • Laravel • Go • React Native
 
-Projects
+Work
+Chop ASAP — food delivery
+Wedjosse — language learning
+Crestlancing — brand & tech solutions
+projina.top - resource managment system for companies
+unicornfasthost.com - #1 web hosting solution in cameroon
+Tech × Education — experimental builds
 
-Chop ASAP – Food delivery platform
-Wedjosse – Language learning platform
-Crestlancing – Brand and tech solutions
-Tech x Education – Academic and experimental projects
-
-Currently
-
-Learning React Native and Node.js while improving full-stack development
+Now
+System Engineer, building and scalling startup products
 
 Contact
-
-Twitter: https://twitter.com/yuvcarl
-
-Portfolio: https://yuvcarl.crestlancing.com
-
-Email: codewithcrest@gmail.com
+twitter.com/yuvcarl
+yuvcarl.crestlancing.com
+codewithcrest@gmail.com
