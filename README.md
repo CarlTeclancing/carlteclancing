@@ -8,9 +8,10 @@ Stack
 Figma • React • Tailwind • TypeScript • Node.js • Laravel • Go • React Native
 
 Work
-Chop ASAP — food delivery
-Wedjosse — language learning
-Crestlancing — brand & tech solutions
+ChopASAP.com — food delivery
+legit.cm and links.legit.cm Creator funnel and news blog
+Wedjosse.com — language learning
+Crestlancing.org — brand & tech solutions
 projina.top - resource managment system for companies
 unicornfasthost.com - #1 web hosting solution in cameroon
 Tech × Education — experimental builds
